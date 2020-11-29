@@ -138,3 +138,6 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+======================================
+因原官方项目不再维护，在此个人维护一个满足项目需要的kurento-utils代码库。

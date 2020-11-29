@@ -39,19 +39,19 @@
     "srtp",
     "rtsp"
   ],
-  "homepage": "https://www.kurento.org",
+  "homepage": "https://runeakko.github.io",
   "license": "Apache-2.0",
-  "author": "Kurento <openvidu@gmail.com> (https://www.kurento.org)",
+  "author": "hansenMa from sky class system group",
   "contributors": [
     "Kurento Community <kurento@googlegroups.com> (https://www.kurento.org)"
   ],
   "bugs": {
-    "url": "https://github.com/Kurento/bugtracker/issues",
-    "email": "kurento@googlegroups.com"
+    "url": "https://github.com/RuneAkko/kurento-utils-js/issues",
+    "email": "hansen1996@foxmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Kurento/kurento-utils-js.git"
+    "url": "https://github.com/RuneAkko/kurento-utils-js"
   },
   "main": "lib/index.js",
   "scripts": {
