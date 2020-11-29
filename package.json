@@ -1,7 +1,7 @@
 {
-  "name": "kurento-utils",
-  "version": "6.15.1-dev",
-  "description": "Kurento JavaScript Utilities",
+  "name": "kurento-utils-skyclass-version",
+  "version": "1.0-dev",
+  "description": "Kurento JavaScript Utilities,skyclass version,fetch original version 6.15.1-dev",
   "keywords": [
     "kurento",
     "mcu",
