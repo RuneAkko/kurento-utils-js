@@ -1,6 +1,6 @@
 {
   "name": "kurento-utils-skyclass-version",
-  "version": "1.0-dev",
+  "version": "1.0.0",
   "description": "Kurento JavaScript Utilities,skyclass version,fetch original version 6.15.1-dev",
   "keywords": [
     "kurento",
